@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5hPIQhL2KdIBczjPuOMqB2CakOeD5wrxJulLPRrmGZ/EsL7yu9OKyYEZ/OB4BZ9jCK8B6OUmwjYP9XkIprcrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kazem\\Source\\Repos\\RestApi\\RestApi\\RestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kazem\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
